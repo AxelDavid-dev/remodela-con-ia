@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "remodelaia",
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
     { "source": "/privacidad", "destination": "/privacidad.html" }
